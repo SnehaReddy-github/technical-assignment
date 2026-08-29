@@ -33,8 +33,8 @@ Requests
 BeautifulSoup4
 
 Install the required Python packages:
-
 pip install requests beautifulsoup4
+
 Question 2 – SQL and Database
 
 Requirements:
@@ -99,6 +99,7 @@ The program displays the products found and their selling prices.
 Dependencies
 requests
 beautifulsoup4
+
 Question 2 – SQL and Database
 Description
 
